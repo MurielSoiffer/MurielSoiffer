@@ -15,7 +15,11 @@ Soy estudiante del último año de la Tecnicatura en Computación en la Escuela 
 - 📫 Podés contactarme a: [soifferMuriel@gmail.com](mailto:soifferMuriel@gmail.com)
 
 <br>
+<table width="100%" >
 
+ <tr>
+    <td width="60%">
+	    
 ## 🛠️ Mis Skills 🧠
 
 ### 💡 Lenguajes
@@ -47,7 +51,23 @@ Soy estudiante del último año de la Tecnicatura en Computación en la Escuela 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/MonoGame-000000?style=for-the-badge&logo=monogame&logoColor=white"/>
 </span>
+</td>
 
+<td>
+  
+## 📄📜 Estadisticas
+
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MurielSoiffer"/>
+ </br>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurielSoiffer&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+</p>
+     
+  </td>
+ </tr>
+</table>
+ 
 ---
 
 <p align="center">
