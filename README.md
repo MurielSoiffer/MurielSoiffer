@@ -12,7 +12,7 @@ Soy estudiante del último año de la Tecnicatura en Computación en la Escuela 
 
 - 💬 ¡Podés preguntarme lo que quieras! Si está dentro de mis conocimientos, con gusto te ayudo 😄  
 - 🎧 Fuera del mundo tech, me gusta leer 📚, jugar al fútbol ⚽, escuchar música 🎵 y ver series en Netflix 🍿  
-- 📫 Podés contactarme a: [soifferMuriel@gmail.com](mailto:soifferMuriel@gmail.com)
+- 📫 Podés contactarme a: [soiffermuriel@gmail.com](mailto:soiffermuriel@gmail.com)
 
 <br>
 <table width="100%" >
