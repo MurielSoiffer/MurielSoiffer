@@ -59,7 +59,7 @@ Soy estudiante del último año de la Tecnicatura en Computación en la Escuela 
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MurielSoiffer"/>
+   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MurielSoiffer"/>
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurielSoiffer&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
