@@ -71,7 +71,7 @@ Soy estudiante del último año de la Tecnicatura en Computación en la Escuela 
 ---
 
 <p align="center">
-	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+	<img src="https://raw.githubusercontent.com/MurielSoiffer/MurielSoiffer/master/assets/snake.svg" alt="Snake Game"/>
 </p>
 
 <div align="center">
